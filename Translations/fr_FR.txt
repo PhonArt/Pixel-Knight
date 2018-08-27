@@ -1,0 +1,132 @@
+Language Name = Francais
+
+MainMenu.Buttons.Main.Play = Jouer
+MainMenu.Buttons.Main.Shop = Magasin
+MainMenu.Buttons.Main.Options = Options
+MainMenu.Buttons.Play.Credits = Credits
+MainMenu.Buttons.Play.Intro = Intro
+MainMenu.Header.Play.GameMode = Mode de Jeu
+MainMenu.Buttons.Play.Story = Histoire
+MainMenu.Buttons.Play.Arena = Arene
+MainMenu.Buttons.Play.Editor = Editeur
+MainMenu.Notification.LevelNotReady = Ce niveau est toujours en cours de construction.
+MainMenu.Buttons.Shop.Character = Personnage
+MainMenu.Buttons.Shop.PowerUps = Potion
+MainMenu.Buttons.Shop.Buy = Acheter
+MainMenu.Buttons.Shop.Select = Selectionner
+MainMenu.Buttons.Shop.Selected = Selectionne
+MainMenu.Buttons.Shop.Ad = Pub
+MainMenu.Header.Shop.Upgrades = Ameliorations
+MainMenu.Buttons.Shop.Upgrades.Speed = Vitesse
+MainMenu.Buttons.Shop.Upgrades.Jump = Saut
+MainMenu.Buttons.Shop.Upgrades.Attack = Attaque
+MainMenu.Buttons.Shop.Upgrades.NextUpgrade = Amelioration suivante :
+MainMenu.Notification.Shop.NotEnoughPlayer = Pas assez d'argent pour acheter "%name%". Il vous manque %missing% ruby(s).
+MainMenu.Notification.Shop.BoughtPlayer = Achat reussi de "%name%" pour %price% ruby(s). Maintenant, vous avez %ruby% ruby(s)"
+MainMenu.Notification.Shop.BoughtUpgrade = Achat reussi de "1" %type% amelioration pour %price% ruby(s). Argent restant : %money%.
+MainMenu.Notification.Shop.NotEnoughUpgrade = Pas assez d'argent pour acheter l'amelioration %type%. Il vous manque %missing%.
+MainMenu.Notification.Shop.FullyUpgraded = Deja ameliore au maximum.
+MainMenu.Buttons.Options.Music = Musique :
+MainMenu.Buttons.Options.FX = Effets :
+MainMenu.Buttons.Options.Language = Langues :
+MainMenu.Buttons.Options.Redeem = Mettre un code :
+MainMenu.Buttons.Options.Bug = Signaler un bug
+MainMenu.Buttons.Options.Reset = Reinitialliser
+MainMenu.Buttons.Options.Stats = Montrer les statistiques
+MainMenu.Buttons.Options.EnterCode = Rentrez le code...
+MainMenu.Text.Options.ConfirmReset = Attention, reinitialliser le jeu remettra les donnees a zero. La progression et l'argent sera perdue.
+MainMenu.Buttons.Options.Yes = Oui
+MainMenu.Buttons.Options.No = Non
+MainMenu.Buttons.Options.Ok = Ok
+PauseMenu.Buttons.Resume = Reprendre
+PauseMenu.Buttons.Restart = Recommencer
+PauseMenu.Buttons.MainMenu = Menu Principal
+WinMenu.Header.Won = Vous avez gagne
+WinMenu.Text.Total = Total
+WinMenu.Text.Collected = Recuperer durant le niveau
+WinMenu.Text.Boost = Potion
+WinMenu.Text.Stars = Etoile
+Credits.Text.Director = Directeur
+Credits.Text.Developper = Developeur
+Credits.Text.ArtistDirector = Directeur Artistique
+Credits.Text.Artist = Artiste
+Credits.Text.LevelDirector = Directeur Level Designer
+Credits.Text.Level = Level Designer
+Credits.Text.QADirector = Directeur Controle Qualite
+Credits.Text.CM = Marketing
+Credits.Text.Message = Merci d'avoir joue au jeu. Si bous l'avez aime, n'hesitez pas a nous le faire savoir. Mais si vous ne l'avez pas aime, dites-nous pourquoi et nous ferons tout notre possible pour l'ameliorer. Nous aimerons aussi remercier tous nos testeurs Alpha.
+Dialogs.Text.Hint1.Name = Aide
+Dialogs.Text.Hint1.Part1 = Bonjour joueur ! Bienvenue sur ce jeu !
+Dialogs.Text.Hint1.Part2 = Je vous aiderai a rester en vie a travers tous les niveaux.
+Dialogs.Text.Hint1.Part3 = En bas, il y a un monstre. Tu le ou il te fera un de degat.
+Dialogs.Text.Hint1.Part4 = Bonne chance ! Au fait, la bouteille t'as donne un d'armure.
+Editor.Buttons.Load = Charger
+Editor.Buttons.Save = Sauvergarder
+Editor.Buttons.Continue = Continuer
+Editor.Buttons.MainMenu =
+Load.Text.Loading = Loading
+Levels.Text.MainMenu = Menu Principal
+Levels.Text.LevelEditor = Editeur de niveaux
+Levels.Text.Credits = Credits
+Levels.Text.Tutorial = Tutoriel
+Levels.Text.Level1 = Niveau 1
+Levels.Text.Level2 = Niveau 2
+Levels.Text.Level3 = Niveau 3
+Levels.Text.Level4 = Niveau 4
+Levels.Text.Level5 = Niveau 5
+Levels.Text.Level6 = Niveau 6
+Levels.Text.Level7 = Niveau 7
+Levels.Text.Level8 = Niveau 8
+Levels.Text.Level9 = Niveau 9
+Levels.Text.Level10 = Niveau 10
+Levels.Text.Level11 = Niveau 11
+Levels.Text.Level12 = Niveau 12
+Levels.Text.Level13 = Niveau 13
+Levels.Text.Level14 = Niveau 14
+Levels.Text.Level15 = Niveau 15
+PowerUps.Button.DoubleCoins = Doubles ruby
+PowerUps.Button.ShieldBoost = Armure Supplementaire
+PowerUps.Button.Use = Utiliser
+Character.Text.KnightName = Arthur
+Character.Text.KnightDesc = "Degagez de mon chemin, stupides monstres" -Arthur %n%%n%C'est un puissant chevalier qui n'attaque qu'au corps a corps. Il est tres vulnerable aux attaques a distance.%n%Il a trois points de vies ce qui lui permet de supporter quelques attaques.
+Character.Text.MageName = Rodalf
+Character.Text.MageDesc = "Puffff, magique ! Le monstre a disparu !" -Rodalf %n%%n%C'est un mage qui tire des boules de feu droit devant lui.%n%Il n'a que deux points de vie mais il n'ira jamais aux combats rapproche. Ses boules de feu prennent un cours temps avant d'apparaitre, de plus il existe une pause entre chaque tirs.
+Character.Text.NinjaName = Hiko Nakura
+Character.Text.NinjaDesc = "Ninjaaaaaaa !" -Hiko Nakura %n%%n%C'est le personnage le plus libre de ses mouvements ! Il a une longue epee et il peut double sauter. Mais il est assez vulnerable car il n'a que deux points de vies.
+Encyclopedia.Button.MonsterCat = Monstres
+Encyclopedia.Button.CollectiblesCat = Recuperables
+Encyclopedia.Button.DarthoroName = Darthoro
+Encyclopedia.Button.DarthoroDesc = Cette chose est tres stupide ! Il marche droit devant jusqu'a qu'il rencontre un mur ou un trou. %n%Il bouge a 5 metres par secondes. Il est donc facile a esquiver ou a tuer.
+Encyclopedia.Button.DiablotinName = Diablotin
+Encyclopedia.Button.DiablotinDesc = Cette chose est tres stupide ! Il vole sur place jusqu'a que vous soyez a portee, et il se mettra a voler vers vous. Par contre, il peut passer a travers les murs. %n%Il bouge a 5 metres par secondes. Il est donc facile a esquiver ou a tuer.
+Encyclopedia.Button.FireballName = Fireball
+Encyclopedia.Button.FireballDesc = Le Fireball est une boule sautante, il veut juste sauter tout seul en paix. Mais si vous l'attaquez ou le touchez, il se fachera et suatera plus haut et plus vite. %n%Il ne bouge pas vite mais il possede 10 points de vie. Il est plus difficile a tuer a cause de sa capacite a vous esquiver.
+
+Levels.Text.Arena1 = Arene Grassland
+Arena.Text.LetsGo = C'est Parti !
+Arena.Text.remaining = Ennemis Restants : %cure%/%maxe%%n%Vague : %wave%
+Dialogs.Text.Hint2.Part1 = Vous voila ! Bien joue !
+Dialogs.Text.Hint2.Part2 = Maintenant, voici un nouvel obstacle. Une parti de sauts.
+Dialogs.Text.Hint2.Part3 = Appuyez juste sur le bouton saut pour sauter de platformes en platformes.
+Dialogs.Text.Hint2.Part3 = Bonne chance !
+Dialogs.Text.Hint3.Part1 = Quelle force !
+Dialogs.Text.Hint3.Part2 = Ici, il y a un ennemi volant.
+Dialogs.Text.Hint3.Part3 = Faites attention, quand vous erez a porte, il volera vers vous. Tuez le.
+Dialogs.Text.Hint3.Part4 = C'est le dernier obstacle.
+Dialogs.Text.Hint4.Part1 = Vous etes l'elu !
+Dialogs.Text.Hint4.Part2 = Le portail est tout pres, passe au travers pour gagner le niveau !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

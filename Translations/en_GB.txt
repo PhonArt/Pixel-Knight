@@ -1,0 +1,129 @@
+	Language Name = English
+
+MainMenu.Buttons.Main.Play = Play
+MainMenu.Buttons.Main.Shop = Shop
+MainMenu.Buttons.Main.Options = Options
+MainMenu.Buttons.Play.Credits = Credits
+MainMenu.Buttons.Play.Intro = Intro
+MainMenu.Header.Play.GameMode = Game Mode
+MainMenu.Buttons.Play.Story = Story
+MainMenu.Buttons.Play.Arena = Arena
+MainMenu.Buttons.Play.Editor = Editor
+MainMenu.Notification.LevelNotReady = This level is still in building process.
+MainMenu.Buttons.Shop.Character = Character
+MainMenu.Buttons.Shop.PowerUps = Power Ups
+MainMenu.Buttons.Shop.Buy = Buy
+MainMenu.Buttons.Shop.Select = Select
+MainMenu.Buttons.Shop.Selected = Selected
+MainMenu.Buttons.Shop.Ad = Ad
+MainMenu.Header.Shop.Upgrades = Upgrades
+MainMenu.Buttons.Shop.Upgrades.Speed = Speed
+MainMenu.Buttons.Shop.Upgrades.Jump = Jump
+MainMenu.Buttons.Shop.Upgrades.Attack = Attack
+MainMenu.Buttons.Shop.Upgrades.NextUpgrade = Next Upgrade :
+MainMenu.Notification.Shop.NotEnoughPlayer = Not enough money to buy "%name%". You are missing %missing% ruby(s).
+MainMenu.Notification.Shop.BoughtPlayer = Successfuly bought "%name%" for %price% ruby(s). Now, you have %ruby% ruby(s)"
+MainMenu.Notification.Shop.BoughtUpgrade = Successfully bought "1" %type% upgrade for %price% ruby(s). New balance : %money%.
+MainMenu.Notification.Shop.NotEnoughUpgrade = Not enough money to buy a %type% upgrade. You are missing %missing%.
+MainMenu.Notification.Shop.FullyUpgraded = Already fully upgraded
+MainMenu.Buttons.Options.Music = Music :
+MainMenu.Buttons.Options.FX = FX :
+MainMenu.Buttons.Options.Language = Languages :
+MainMenu.Buttons.Options.Redeem = Redeem Code :
+MainMenu.Buttons.Options.Bug = Report a Bug
+MainMenu.Buttons.Options.Reset = Reset
+MainMenu.Buttons.Options.Stats = Show Stats
+MainMenu.Buttons.Options.EnterCode = Enter code...
+MainMenu.Text.Options.ConfirmReset = Caution, reseting the game will erase all your data. All level unlock and money will be lost.
+MainMenu.Buttons.Options.Yes = Yes
+MainMenu.Buttons.Options.No = No
+MainMenu.Buttons.Options.Ok = Ok
+PauseMenu.Buttons.Resume = Resume
+PauseMenu.Buttons.Restart = Restart
+PauseMenu.Buttons.MainMenu = Main Menu
+WinMenu.Header.Won = You Won
+WinMenu.Text.Total = Total
+WinMenu.Text.Collected = Collected in level
+WinMenu.Text.Boost = Bosster
+WinMenu.Text.Stars = Star
+Credits.Text.Director = Director
+Credits.Text.Developper = Developper
+Credits.Text.ArtistDirector = Artist Director
+Credits.Text.Artist = Artist
+Credits.Text.LevelDirector = Level Designer Director
+Credits.Text.Level = Level Designer
+Credits.Text.QADirector = Quality Assurance Director
+Credits.Text.CM = Community Manager
+Credits.Text.Message = Thanks for playing the game. If you liked it, don't forget to let us now. But if you didn't liked it, tell us why and we will try to improve it. We also would like to thank all our alpha testers.
+Dialogs.Text.Hint1.Name = Hint
+Dialogs.Text.Hint1.Part1 = Hello player ! Welcome to this game !
+Dialogs.Text.Hint1.Part2 = I will help you to stay alive through all levels.
+Dialogs.Text.Hint1.Part3 = Down there, there is an ennmy. Kill him or he gonna make you one dammage.
+Dialogs.Text.Hint1.Part4 = Good luck. By the way, the little bottle will give some armor.
+Editor.Buttons.Load = Load
+Editor.Buttons.Save = Save
+Editor.Buttons.Continue = Continue
+Editor.Buttons.MainMenu = Main Menu
+Load.Text.Loading = Loading
+Levels.Text.MainMenu = Main Menu
+Levels.Text.LevelEditor = Level Editor
+Levels.Text.Credits = Credits
+Levels.Text.Tutorial = Tutorial
+Levels.Text.Level1 = Level 1
+Levels.Text.Level2 = Level 2
+Levels.Text.Level3 = Level 3
+Levels.Text.Level4 = Level 4
+Levels.Text.Level5 = Level 5
+Levels.Text.Level6 = Level 6
+Levels.Text.Level7 = Level 7
+Levels.Text.Level8 = Level 8
+Levels.Text.Level9 = Level 9
+Levels.Text.Level10 = Level 10
+Levels.Text.Level11 = Level 11
+Levels.Text.Level12 = Level 12
+Levels.Text.Level13 = Level 13
+Levels.Text.Level14 = Level 14
+Levels.Text.Level15 = Level 15
+PowerUps.Button.DoubleCoins = Double Coins
+PowerUps.Button.ShieldBoost = Shield Boost
+PowerUps.Button.Use = Use
+Character.Text.KnightName = Arthur
+Character.Text.KnightDesc = "Get out of ma way stupid monsters" -Arthur %n%%n%He is a powerful knight who only attacks in hand-to-hand combat. He is very vulnerable to remote attacks.%n%He has 3 life which allows him to cash some damage.
+Character.Text.MageName = Rodalf
+Character.Text.MageDesc = "Puffff, magic the monster has disapear !" -Rodalf %n%%n%He is a mage that can shoot fireballs that fly in any direction and they can kill ennemies.%n%He only has 2 points of life but he will never go in close fight. His fireball doesn't immediately appear.
+Character.Text.NinjaName = Hiko Nakura
+Character.Text.NinjaDesc = "Ninjaaaaaaa !" -Rodalf %n%%n%He is the freeiest character in the game ! He have a long reach and he walk faster and jump higher. But he is quite vulnerable because he have only two heart.
+Encyclopedia.Button.MonsterCat = Monsters
+Encyclopedia.Button.CollectiblesCat = Collectibles
+Encyclopedia.Button.DarthoroName = Darthoro
+Encyclopedia.Button.DarthoroDesc = This thing is so stupid ! She only walk straight forward until she hit a wall or find a hole. %n%She moves at 5 meters per seconds and she have 5 point of life. So it's very easy to kill or dodge.
+Encyclopedia.Button.DiablotinName = Diablotin
+Encyclopedia.Button.DiablotinDesc = This thing is so stupid ! He only fly straight forward to you until he hit you but he can pass through ground. %n%He moves at 5 meters per seconds and he have 5 point of life. So it's very easy to kill or dodge.
+Encyclopedia.Button.FireballName = Fireball
+Encyclopedia.Button.FireballDesc = The fireball is a jumping ball, he just wan't to jump alone. But if you attack him or you touch him, he will get mad and will jump faster and higher. %n%He don't move fast but he have 10 point of life. It's harder to kill considering ability to dodge you.
+
+Levels.Text.Arena1 = Grassland Arena
+Arena.Text.LetsGo = Let's Go !
+Arena.Text.remaining = Ennemies Remaining : %cure%/%maxe%%n%Wave Number : %wave%
+Dialogs.Text.Hint2.Part1 = Here you are ! Well done !
+Dialogs.Text.Hint2.Part2 = Now here is an another obstacle. A jump part.
+Dialogs.Text.Hint2.Part3 = Just press the jump button to jump platform to platform.
+Dialogs.Text.Hint2.Part3 = Good luck !
+Dialogs.Text.Hint3.Part1 = What strength !
+Dialogs.Text.Hint3.Part2 = Here, there is a flying ennemy.
+Dialogs.Text.Hint3.Part3 = Be careful, when you will be at range, he will fly to you. Kill him.
+Dialogs.Text.Hint3.Part4 = This is the last obstacle.
+Dialogs.Text.Hint4.Part1 = You're the one !
+Dialogs.Text.Hint4.Part2 = Here is the portal, pass through it and you will win !
+
+
+
+
+
+
+
+
+
+
+
+
