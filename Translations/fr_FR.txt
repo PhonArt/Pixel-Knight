@@ -13,6 +13,7 @@ MainMenu.Notification.LevelNotReady = Ce niveau est toujours en cours de constru
 MainMenu.Buttons.Shop.Character = Personnage
 MainMenu.Buttons.Shop.PowerUps = Potion
 MainMenu.Buttons.Shop.Buy = Acheter
+MainMenu.Button.Shop.Close = Fermer
 MainMenu.Buttons.Shop.Select = Selectionner
 MainMenu.Buttons.Shop.Selected = Selectionne
 MainMenu.Buttons.Shop.Ad = Pub
@@ -26,6 +27,7 @@ MainMenu.Notification.Shop.BoughtPlayer = Achat reussi de "%name%" pour %price% 
 MainMenu.Notification.Shop.BoughtUpgrade = Achat reussi de "1" %type% amelioration pour %price% ruby(s). Argent restant : %money%.
 MainMenu.Notification.Shop.NotEnoughUpgrade = Pas assez d'argent pour acheter l'amelioration %type%. Il vous manque %missing%.
 MainMenu.Notification.Shop.FullyUpgraded = Deja ameliore au maximum.
+MainMenu.Notification.Shop.AddedRuby = Ajout de %gain% rubys a votre compte, vous avez %money%
 MainMenu.Buttons.Options.Music = Musique :
 MainMenu.Buttons.Options.FX = Effets :
 MainMenu.Buttons.Options.Language = Langues :
@@ -54,6 +56,9 @@ Credits.Text.LevelDirector = Directeur Level Designer
 Credits.Text.Level = Level Designer
 Credits.Text.QADirector = Directeur Controle Qualite
 Credits.Text.CM = Marketing
+Credits.Text.WM = Gestionnaire Web
+Credits.Text.CCBY4.0 = Concedee sous licence CC BY 4.0
+Credits.Text.CCBY3.0 = Concedee sous licence CC BY 3.0
 Credits.Text.Message = Merci d'avoir joue au jeu. Si bous l'avez aime, n'hesitez pas a nous le faire savoir. Mais si vous ne l'avez pas aime, dites-nous pourquoi et nous ferons tout notre possible pour l'ameliorer. Nous aimerons aussi remercier tous nos testeurs Alpha.
 Dialogs.Text.Hint1.Name = Aide
 Dialogs.Text.Hint1.Part1 = Bonjour joueur ! Bienvenue sur ce jeu !
@@ -101,23 +106,44 @@ Encyclopedia.Button.DiablotinName = Diablotin
 Encyclopedia.Button.DiablotinDesc = Cette chose est tres stupide ! Il vole sur place jusqu'a que vous soyez a portee, et il se mettra a voler vers vous. Par contre, il peut passer a travers les murs. %n%Il bouge a 5 metres par secondes. Il est donc facile a esquiver ou a tuer.
 Encyclopedia.Button.FireballName = Fireball
 Encyclopedia.Button.FireballDesc = Le Fireball est une boule sautante, il veut juste sauter tout seul en paix. Mais si vous l'attaquez ou le touchez, il se fachera et suatera plus haut et plus vite. %n%Il ne bouge pas vite mais il possede 10 points de vie. Il est plus difficile a tuer a cause de sa capacite a vous esquiver.
+Encyclopedia.Button.SpiderName = Spyder
+Encyclopedia.Button.SpiderDesc = La Spyder est une araignee qui adore descendre lorsque vous êtes on son niveau. Elle monte et elle descend a un rythme regulier donc elle est facile a esquiver. %n%Elle ne bouge pas honrizontalement mais elle bouge verticalement a deux vitesse differentes. Elle peut supporter quelques degats car elle 15 points de vies.
+Encyclopedia.Button.GirlemName = Girlem
+Encyclopedia.Button.GirlemDesc = Il n'a qu'un travail, c'est de lancer des boulets devant lui. Il ne fait pas attention a si il y a quelqun'un en dessous, il lance juste. %n%Il ne bouge pas d'un centimetre, c'est l'un des monstre le plus facile a tuer suaf pour sa vie, il a 20 points de vie !
 
 Levels.Text.Arena1 = Arene Grassland
 Arena.Text.LetsGo = C'est Parti !
-Arena.Text.remaining = Ennemis Restants : %cure%/%maxe%%n%Vague : %wave%
+Arena.Text.Remaining = Ennemis Restants : %cure%/%maxe%%n%Vague : %wave%
 Dialogs.Text.Hint2.Part1 = Vous voila ! Bien joue !
 Dialogs.Text.Hint2.Part2 = Maintenant, voici un nouvel obstacle. Une parti de sauts.
 Dialogs.Text.Hint2.Part3 = Appuyez juste sur le bouton saut pour sauter de platformes en platformes.
-Dialogs.Text.Hint2.Part3 = Bonne chance !
+Dialogs.Text.Hint2.Part4 = Bonne chance !
 Dialogs.Text.Hint3.Part1 = Quelle force !
 Dialogs.Text.Hint3.Part2 = Ici, il y a un ennemi volant.
 Dialogs.Text.Hint3.Part3 = Faites attention, quand vous erez a porte, il volera vers vous. Tuez le.
 Dialogs.Text.Hint3.Part4 = C'est le dernier obstacle.
 Dialogs.Text.Hint4.Part1 = Vous etes l'elu !
 Dialogs.Text.Hint4.Part2 = Le portail est tout pres, passe au travers pour gagner le niveau !
+WinMenu.Text.Survived = Vagues survecues :%n%%waves%
+WinMenu.Text.WavesScore =  Vagues
+WinMenu.Text.NewRecord = NOUVEAU RECORD
 
-
-
+LevelEditor.Button.Imported = Importes
+LevelEditor.Button.YourLevel = Vos niveaux
+LevelEditor.Button.Export = Exporter
+LevelEditor.Button.Play = Jouer
+LevelEditor.TextField.Title = Entrez un titre....
+LevelEditor.TextField.Descritpion = Entrez une description....
+LevelEditor.Button.Cancel = Annuler
+LevelEditor.Button.Create = Créer
+LevelEditor.Notification.SuccessfullySaved = Niveau sauvegarde
+LevelEditor.Notification.ExportMessage = Veuillez finir le niveau pour l'exporter
+LevelEditor.Notification.ErrorTitle = Veuillez rentrer un titre
+LevelEditor.Button.SaveAndQuit = Sauvergarder et quitter
+LevelEditor.Text.ConfirmDialog = Que voulez-vous faire ?
+LevelEditor.Text.ConfirmDelete = Etes vous sur de vouloir supprimer ce niveau ?
+LevelEditor.Button.Delete = Supprimer
+LevelEditor.Button.Quit = Quitter
 
 
 
